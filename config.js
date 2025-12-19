@@ -11,8 +11,8 @@ module.exports = {
     OWNER_NUMBER: process.env.OWNER_NUMBER || "94725364886",
 
     // 🤖 Default Fallback Settings
-    DEFAULT_BOT_NAME: process.env.DEFAULT_BOT_NAME || "OSHIYA-MD",
-    DEFAULT_OWNER_NAME: process.env.DEFAULT_OWNER_NAME || "Oshadha manuppiria",
+    DEFAULT_BOT_NAME: process.env.DEFAULT_BOT_NAME || "ZANTA-MD",
+    DEFAULT_OWNER_NAME: process.env.DEFAULT_OWNER_NAME || "Akash nimsara",
     DEFAULT_PREFIX: process.env.DEFAULT_PREFIX || ".",
 
     // 🖼️ Media Settings (Alive image & Menu)
