@@ -16,8 +16,8 @@ module.exports = {
     DEFAULT_PREFIX: process.env.DEFAULT_PREFIX || ".",
 
     // 🖼️ Media Settings (Alive image & Menu)
-    ALIVE_IMG: process.env.ALIVE_IMG || "https://raw.githubusercontent.com/oshadha12345/OSHIYA-BOT/refs/heads/main/Images/oshiya_md.png",
-    MENU_IMG: process.env.MENU_IMG || "https://raw.githubusercontent.com/oshadha12345/OSHIYA-BOT/refs/heads/main/Images/oshiya_md.png",
+    ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/lc9luv.jpg",
+    MENU_IMG: process.env.MENU_IMG || "https://files.catbox.moe/lc9luv.jpg",
 
     // ⚙️ Dashboard / Database Defaults
     // මෙම අගයන් පළමු වතාවට Database එක සෑදීමේදී භාවිත වේ (Database & Dashboard Sync)
