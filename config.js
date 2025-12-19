@@ -7,12 +7,12 @@ function convertToBool(text, fault = 'true') {
 
 module.exports = {
     // 🔑 Essential Session & Owner Settings
-    SESSION_ID: process.env.SESSION_ID || "RAtmGRoI#aLIFr0anyVMDjpbBHuca_u-LysVYWrYiHBEsCXBx7-4",
-    OWNER_NUMBER: process.env.OWNER_NUMBER || "94766247995",
+    SESSION_ID: process.env.SESSION_ID || "7xhHCTgT#UFG7feg-NrZQ1Y3WYt0cDG-tnOvMv-qXXZNDhGZ6VWI",
+    OWNER_NUMBER: process.env.OWNER_NUMBER || "94725364886",
 
     // 🤖 Default Fallback Settings
-    DEFAULT_BOT_NAME: process.env.DEFAULT_BOT_NAME || "ZANTA-MD",
-    DEFAULT_OWNER_NAME: process.env.DEFAULT_OWNER_NAME || "Akash nimsara",
+    DEFAULT_BOT_NAME: process.env.DEFAULT_BOT_NAME || "OSHIYA-MD",
+    DEFAULT_OWNER_NAME: process.env.DEFAULT_OWNER_NAME || "Oshadha manuppiria",
     DEFAULT_PREFIX: process.env.DEFAULT_PREFIX || ".",
 
     // 🖼️ Media Settings (Alive image & Menu)
